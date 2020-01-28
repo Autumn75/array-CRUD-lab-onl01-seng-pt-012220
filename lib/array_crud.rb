@@ -25,7 +25,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   # arr = ["cherries","pear","apple","peach"]
-  
+  array[retrieve_element_from_index_number]
 end
 
 def retrieve_first_element_from_array(array)
